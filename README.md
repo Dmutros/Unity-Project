@@ -1,4 +1,4 @@
-# Unity AI Project
+# Unity Project
 
 ## About
 This project is a Unity-based prototype focused on implementing behavioral AI systems for non-player characters (NPCs).
