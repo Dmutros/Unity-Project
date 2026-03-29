@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137323d9aba18124fb06f6d0f1e6e710, type: 3}
+  m_Name: Copper
+  m_EditorClassIdentifier: 
+  itemName: Copper
+  icon: {fileID: -2030037532, guid: 6869c3429654a434a8494e50af185a1a, type: 3}
+  maxStackSize: 10
+  tileName: Copper
+  tileObject: {fileID: 6483764264912436011, guid: a777ab5a4b9773a4e96f84de499dd3b0, type: 3}
+  tileSprites: []
+  mapColor: {r: 1, g: 0.3766535, b: 0, a: 1}
+  prefabType: 0
+  tileDrop: {fileID: 11400000}
+  variant: {fileID: 0}

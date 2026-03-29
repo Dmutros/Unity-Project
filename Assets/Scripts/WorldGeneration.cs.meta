@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 555fb0fbcd6b2a84e9e1584cc46e31d8
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirtPrefab: {fileID: 8879060946956198111, guid: 5daa12a81ab9c424da889e910ef86524, type: 3}
+  - dirtWallPrefab: {fileID: 3189939643868210324, guid: 2512d46759abc2745bc2faa3e03449ed, type: 3}
+  - stoneWallPrefab: {fileID: 7776794357875905196, guid: e1e2104ed0ef329418ee59a8172bba57, type: 3}
+  - orePrefab: {fileID: 6483764264912436011, guid: a777ab5a4b9773a4e96f84de499dd3b0, type: 3}
+  - stonePrefab: {fileID: 2077234914462368470, guid: 5e3176d837e3eb946b06c3790117779f, type: 3}
+  - sandPrefab: {fileID: 6401257104989657542, guid: dc7134c26b5215b469dd7a86557c4404, type: 3}
+  - grassPrefab: {fileID: 5317946800592839257, guid: ea7fc6da1e9ed3a49867b276172cf08d, type: 3}
+  - logPrefab: {fileID: 6560272026796468554, guid: 581a7664826747541a22be8ae7bf1c4e, type: 3}
+  - liefPrefab: {fileID: 6560272026796468554, guid: 581a7664826747541a22be8ae7bf1c4e, type: 3}
+  - noiseTexture: {instanceID: 0}
+  - worldContainer: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

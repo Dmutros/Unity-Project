@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9bf5661af743bc44ba91b9e499da2411, type: 3}
+  m_Name: DerestBiome
+  m_EditorClassIdentifier: 
+  dirt: {fileID: 11400000, guid: 67aa4f514249c8c40a49ed50558cbdab, type: 2}
+  dirtWall: {fileID: 11400000, guid: 6f4c2bae40145e8438804c7904d32e1d, type: 2}
+  stoneWall: {fileID: 11400000, guid: baebb8058cf2adc46961afd9a3a9796a, type: 2}
+  copper: {fileID: 11400000, guid: d545b3db2826a9b43ab8457af06f0e17, type: 2}
+  stone: {fileID: 11400000, guid: a2b6a3c4bf8a8fa4fa749a7f65652172, type: 2}
+  sand: {fileID: 11400000, guid: 67aa4f514249c8c40a49ed50558cbdab, type: 2}
+  sandWall: {fileID: 0}
+  snow: {fileID: 11400000, guid: 67aa4f514249c8c40a49ed50558cbdab, type: 2}
+  snowWall: {fileID: 0}
+  grass: {fileID: 11400000, guid: 67aa4f514249c8c40a49ed50558cbdab, type: 2}
+  log: {fileID: 11400000, guid: fcbcf4ccf11d1af408063690e89f9e31, type: 2}
+  lief: {fileID: 11400000, guid: 83dcba7fb80944b4b9d713eeed520a08, type: 2}
+  gold: {fileID: 11400000, guid: 0f42fc16597e5f045a97e6b0a8621dd0, type: 2}
+  iron: {fileID: 11400000, guid: debf62ff40e2c5344ba96a42edbfe3d9, type: 2}
+  coal: {fileID: 11400000, guid: 29b7ff83760b05848a3d65d6fcdb6dd3, type: 2}
+  grassTall: {fileID: 11400000, guid: c61fc33885846b344a04840f4817df4a, type: 2}

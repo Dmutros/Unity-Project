@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137323d9aba18124fb06f6d0f1e6e710, type: 3}
+  m_Name: Icestone
+  m_EditorClassIdentifier: 
+  itemName: Icestone
+  icon: {fileID: -1319559843, guid: 5f1bd1bb410e279489953b0e96efdf62, type: 3}
+  maxStackSize: 10
+  tileName: Icestone
+  tileObject: {fileID: 8879060946956198111, guid: 88aa83d5d8191984f867100a2962c52a, type: 3}
+  tileSprites:
+  - {fileID: 3175124023548163226, guid: 5f1bd1bb410e279489953b0e96efdf62, type: 3}
+  - {fileID: 3807388845523427106, guid: 5f1bd1bb410e279489953b0e96efdf62, type: 3}
+  mapColor: {r: 0.57022077, g: 0.8089843, b: 0.8113208, a: 1}
+  prefabType: 0
+  tileDrop: {fileID: 11400000}
+  variant: {fileID: 11400000, guid: 08c283ab4ec9c024e97d73a16b07252e, type: 2}

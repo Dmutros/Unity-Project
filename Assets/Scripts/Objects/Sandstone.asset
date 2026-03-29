@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137323d9aba18124fb06f6d0f1e6e710, type: 3}
+  m_Name: Sandstone
+  m_EditorClassIdentifier: 
+  itemName: Sandstone
+  icon: {fileID: 1249948131, guid: 2af9461e330e14d46b32766fd7699f52, type: 3}
+  maxStackSize: 10
+  tileName: Sandstone
+  tileObject: {fileID: 8879060946956198111, guid: af39973a48b372a48b030e630c7fbcdf, type: 3}
+  tileSprites:
+  - {fileID: -786008573387273562, guid: 2af9461e330e14d46b32766fd7699f52, type: 3}
+  - {fileID: -3175277225313411177, guid: 2af9461e330e14d46b32766fd7699f52, type: 3}
+  mapColor: {r: 0.6886792, g: 0.6105082, b: 0.11369702, a: 1}
+  prefabType: 0
+  tileDrop: {fileID: 11400000}
+  variant: {fileID: 11400000, guid: baebb8058cf2adc46961afd9a3a9796a, type: 2}

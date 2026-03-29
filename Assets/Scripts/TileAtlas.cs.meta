@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 9bf5661af743bc44ba91b9e499da2411
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - dirt: {instanceID: 0}
+  - dirtWall: {instanceID: 0}
+  - stoneWall: {instanceID: 0}
+  - ore: {fileID: 11400000, guid: d545b3db2826a9b43ab8457af06f0e17, type: 2}
+  - stone: {fileID: 11400000, guid: d34c095ad094c60478a8e4ac4447bc68, type: 2}
+  - sand: {fileID: 11400000, guid: 67aa4f514249c8c40a49ed50558cbdab, type: 2}
+  - grass: {instanceID: 0}
+  - log: {instanceID: 0}
+  - lief: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

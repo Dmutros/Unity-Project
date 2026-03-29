@@ -1,0 +1,26 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137323d9aba18124fb06f6d0f1e6e710, type: 3}
+  m_Name: SandWall
+  m_EditorClassIdentifier: 
+  itemName: SandWall
+  icon: {fileID: -898609550, guid: 3b51855da151629438480c93280c5d31, type: 3}
+  maxStackSize: 10
+  tileName: SandWall
+  tileObject: {fileID: 7701001021093916400, guid: a540d045127ca8e458ab3a3106765285, type: 3}
+  tileSprites:
+  - {fileID: -499725581, guid: 3b51855da151629438480c93280c5d31, type: 3}
+  - {fileID: 1452326238, guid: 3b51855da151629438480c93280c5d31, type: 3}
+  mapColor: {r: 0.5849056, g: 0.5472857, b: 0.25658596, a: 1}
+  prefabType: 1
+  tileDrop: {fileID: 11400000, guid: 67aa4f514249c8c40a49ed50558cbdab, type: 2}
+  variant: {fileID: 11400000, guid: 67aa4f514249c8c40a49ed50558cbdab, type: 2}

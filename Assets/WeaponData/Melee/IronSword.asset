@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 6c629f71b7e37714b834f53b3a78c8cb, type: 3}
+  m_Name: IronSword
+  m_EditorClassIdentifier: 
+  itemName: Sword
+  icon: {fileID: 712035800519618848, guid: ef1773577b8d5f842841f1343601c3f0, type: 3}
+  maxStackSize: 10
+  weaponPrefab: {fileID: 7716407237991059998, guid: 066a9c494ecd4c0488d32f66a2ab3830, type: 3}
+  iconSprite: {fileID: 712035800519618848, guid: ef1773577b8d5f842841f1343601c3f0, type: 3}
+  damage: 20
+  swingStartAngle: 90
+  swingEndAngle: -100
+  swingDuration: 0.5
+  knockbackForce: 2

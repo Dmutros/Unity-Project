@@ -1,0 +1,24 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 137323d9aba18124fb06f6d0f1e6e710, type: 3}
+  m_Name: Gold
+  m_EditorClassIdentifier: 
+  itemName: Gold
+  icon: {fileID: 722578902, guid: 6869c3429654a434a8494e50af185a1a, type: 3}
+  maxStackSize: 10
+  tileName: Gold
+  tileObject: {fileID: 7632459415170732478, guid: f0462bd9747dc864e8ae3b35a979653b, type: 3}
+  tileSprites: []
+  mapColor: {r: 0.9528302, g: 0.73728436, b: 0, a: 1}
+  prefabType: 0
+  tileDrop: {fileID: 11400000}
+  variant: {fileID: 0}
